@@ -16,7 +16,7 @@ Building an HTML and css page that matches the appearance of this page [NYT Spac
 
 # Live Demo
 
-[Click here for Live Demo](https://raw.githack.com/t-yanick/floating-and-positioning-elements/nyt-workplace/index.html)
+[Click here for Live Demo](https://jssarrazolaa.github.io/NYT-Article-Space-Ripples_MPS/)
 
 # Getting Started
 
